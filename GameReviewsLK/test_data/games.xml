@@ -1,0 +1,26 @@
+<games>
+    <game>
+        <title>The Witcher 3: Wild Hunt</title>
+        <release_date>2015-05-19</release_date>
+        <genre>Action role-playing</genre>
+        <developer>CD Projekt Red</developer>
+        <rating>5</rating>
+        <review>This game is a masterpiece, with stunning graphics, immersive story, and engaging gameplay.</review>
+    </game>
+    <game>
+        <title>Red Dead Redemption 2</title>
+        <release_date>2018-10-26</release_date>
+        <genre>Action-adventure</genre>
+        <developer>Rockstar Games</developer>
+        <rating>5</rating>
+        <review>Red Dead Redemption 2 sets a new standard for open-world gaming with its incredible attention to detail and compelling narrative.</review>
+    </game>
+    <game>
+        <title>The Legend of Zelda: Breath of the Wild</title>
+        <release_date>2017-03-03</release_date>
+        <genre>Action-adventure</genre>
+        <developer>Nintendo</developer>
+        <rating>4</rating>
+        <review>Breath of the Wild offers an expansive open world filled with exploration and discovery, although it may lack some traditional Zelda elements.</review>
+    </game>
+</games>

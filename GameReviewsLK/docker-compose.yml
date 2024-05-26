@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  web:
+    build: .
+    ports:
+      - "8080:80"
+    volumes:
+      - ./www/html:/var/www/html
+      - ./src/xml:/var/www/xml
+    environment:
+      PHP_EXTENSION_XDEBUG: 1
